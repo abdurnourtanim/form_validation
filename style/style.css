@@ -1,0 +1,44 @@
+.hide_form {
+  display: none;
+}
+
+.required {
+  border: 1px solid red;
+}
+
+.required::-webkit-input-placeholder {
+  color: #000;
+}
+
+.required:-ms-input-placeholder {
+  color: #000;
+}
+
+.required::-ms-input-placeholder {
+  color: #000;
+}
+
+.required::placeholder {
+  color: #000;
+}
+
+.success {
+  border: 1px solid green;
+}
+
+.success::-webkit-input-placeholder {
+  color: #000;
+}
+
+.success:-ms-input-placeholder {
+  color: #000;
+}
+
+.success::-ms-input-placeholder {
+  color: #000;
+}
+
+.success::placeholder {
+  color: #000;
+}
+/*# sourceMappingURL=style.css.map */

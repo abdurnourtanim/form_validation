@@ -1,0 +1,18 @@
+.hide_form {
+  display: none;
+}
+
+.required {
+  border: 1px solid red;
+
+  &::placeholder {
+    color: #000;
+  }
+}
+.success {
+  border: 1px solid green;
+
+  &::placeholder {
+    color: #000;
+  }
+}
