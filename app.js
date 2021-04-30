@@ -83,7 +83,7 @@ form_three_done.addEventListener("click", (e) => {
     password.value === password_confirm.value &&
     password.value.length > 7
   ) {
-    window.open("style/Congratulation.html", "_self");
+    window.open("style/congratulation.html", "_self");
 
     email.classList.add("success");
     password.classList.add("success");
